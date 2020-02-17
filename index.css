@@ -1,0 +1,12 @@
+div {
+    width: 1920px;
+    height: 1080px;
+}
+
+img {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 0px;
+    left: 0px;
+}
